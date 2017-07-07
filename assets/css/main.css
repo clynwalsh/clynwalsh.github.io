@@ -1563,6 +1563,19 @@
 	}
 
 /* Icons */
+  .devicon {
+    font-size: 4em;
+  }
+
+  .devicon-list ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .devicon-list ul li {
+    padding: 20px;
+  }
 
 	.icon {
 		text-decoration: none;
