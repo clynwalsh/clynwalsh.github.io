@@ -1567,6 +1567,11 @@
     font-size: 4em;
   }
 
+  div.devicon-list {
+    display: flex;
+    justify-content: center;
+  }
+
   .devicon-list ul {
     display: flex;
     justify-content: center;
